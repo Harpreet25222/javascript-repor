@@ -6,15 +6,26 @@
 
 // console.log(test.__proto__);            /*  this will return blank object */
 
+// indexOf()
+// slice()
+// trim()
+// replace()
+// include()
+// split()
 
-let data = new String('')
+let data = 'new Str ing'
 
-chatAt();
-indexOf()
-slice()
-trim()
-replace()
-include()
-split()
+// console.log(data.charAt(3))
+// console.log(data.indexOf("S"));
+// console.log(data.slice(0,4));
+// console.log(data.trim());
+// let newData = data.replace('n','N')     /*     console.log(newData);  */
+console.log(data.includes("Str"));
+
+
+
+
+
+
 
  
